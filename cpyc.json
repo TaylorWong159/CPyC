@@ -1,0 +1,22 @@
+{
+    "title": "CPyC",
+    "authors": [
+        "Taylor Wong"
+    ],
+    "path": "cpyc",
+    "sections": [
+        {
+            "title": "Range Query",
+            "path": "range_query",
+            "description": "range_query.tex",
+            "entries": [
+                {
+                    "title": "Segment Tree",
+                    "path": "segment_tree",
+                    "description": "segtree.tex",
+                    "source": "segtree.py"
+                }
+            ]
+        }
+    ]
+}

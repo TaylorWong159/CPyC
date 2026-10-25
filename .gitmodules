@@ -1,0 +1,3 @@
+[submodule "cpyc_buildtools"]
+	path = cpyc_buildtools
+	url = https://github.com/taylorwong159/cpyc_buildtools
